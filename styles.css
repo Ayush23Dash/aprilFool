@@ -1,0 +1,19 @@
+
+@media only screen and (max-width: 772px){
+	.form1{
+	position:relative;
+	top:5px;
+	background-color:#fff;
+	text-align: center;
+
+
+}
+}
+@media only screen and (min-width: 773px){
+	.form1{
+	position:relative;
+	top:20px;
+	background-color:#fff;
+	text-align: center;
+}
+}
